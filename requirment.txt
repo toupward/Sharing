@@ -20,4 +20,4 @@ streamlit_extras.add_vertical_space
 prophet
 yfinance
 sympy
-
+io
